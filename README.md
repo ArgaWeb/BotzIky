@@ -1,4 +1,4 @@
-# SIMPLE BOT WA
+# SIMPLE BOT ARGA
 
 ## FOR DEPLOY HEROKU USER
 
@@ -23,7 +23,7 @@
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > git clone https://github.com/KunzxD404/KxD
-> cd p
+> cd BotzIky
 > npm start
 ```
 
@@ -37,8 +37,8 @@
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php) (if nulis want work,  checklist columns 1,2,3,5,6)
 
 ```
-> git clone https://github.com/KunzxD404/KxD
-> cd p
+> git clone https://github.com/ArgaWeb/BotzIky
+> cd BotzIky  
 > npm start
 ```
 
@@ -51,4 +51,4 @@
 ```
 
 #### Author : [`Iky Ogiwara`](https://youtube.com/channel/UCPw6D5zWZES_nb_FiUMUEHQ)
-#### Recode By : [`KunzxD404`](https://youtube.com/channel/UCUzeU3gvoQPV1joakMUOTtg)
+#### Recode By : [`ArgaBotz`](https://www.youtube.com/channel/UCznuCE_SAfzrZeoH078FEDA)
