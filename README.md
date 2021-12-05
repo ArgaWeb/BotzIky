@@ -1,4 +1,4 @@
-# SIMPLE BOT WA
+# SIMPLE BOT ARGA
 
 ## FOR DEPLOY HEROKU USER
 
@@ -39,6 +39,7 @@
 ```
 > git clone https://github.com/ArgaWeb/BotzIky
 > cd BotzIky
+> npm install
 > npm start
 ```
 
